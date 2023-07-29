@@ -1,0 +1,8 @@
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.exe.config
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.exe
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.pdb
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.AssemblyReference.cache
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.exe
+C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.pdb
