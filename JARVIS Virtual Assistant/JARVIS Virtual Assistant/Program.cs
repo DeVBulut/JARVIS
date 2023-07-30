@@ -10,13 +10,14 @@ namespace JARVIS_Virtual_Assistant
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Hello I am Jarvis");
-            Console.WriteLine(Console.WindowWidth);
-            Console.SetWindowSize(5000, 50);
-            Console.WriteLine(Console.WindowWidth);
+            LoginManager loginManager = new LoginManager();
+            //loginManager.logType;  >> Variable that stores the type of Login.
+
+
+            //Execute Login Sequence
+            try { loginManager.Intro(); }
+            catch (Exception e) { if (loginManager.logType == 2) { Console.WriteLine("$$$ Error Code : " + e); } }
             Console.ReadLine();
-            Console.SetWindowSize(50, 50);
         }
     }
 }
