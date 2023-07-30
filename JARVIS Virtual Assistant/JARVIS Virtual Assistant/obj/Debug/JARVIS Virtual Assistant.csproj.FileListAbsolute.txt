@@ -43,3 +43,48 @@ C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtua
 C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.ValueTuple.xml
 C:\Users\Han\source\repos\DeVBulut\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.CopyComplete
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.exe.config
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.exe
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\JARVIS Virtual Assistant.pdb
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Core.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Identity.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Security.KeyVault.Secrets.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Identity.Client.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Buffers.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Memory.Data.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Memory.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Text.Json.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.ValueTuple.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Core.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Identity.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Azure.Security.KeyVault.Secrets.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Identity.Client.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Buffers.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Memory.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Memory.Data.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Text.Json.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\System.ValueTuple.xml
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.AssemblyReference.cache
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.SuggestedBindingRedirects.cache
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.CoreCompileInputs.cache
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.CopyComplete
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.exe
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.pdb

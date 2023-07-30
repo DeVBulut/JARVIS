@@ -72,21 +72,20 @@ namespace JARVIS_Virtual_Assistant
         public void Intro()
         {
             //Ask User for Input
+            Console.WriteLine();
+            Console.WriteLine("enter username and password"); //first line don't loop
 
-            Console.WriteLine("> Enter Username and Password"); //first line don't loop
-
-            Console.Write("> ");
+            Console.WriteLine();
             string Username = Console.ReadLine();
-            Console.Write("> ");
             string Password = Console.ReadLine();
 
-            Thread.Sleep(350);
+            //Thread.Sleep(350);
             Console.Clear();
-
-            Console.WriteLine("> Enter Username and Password");
-            Console.WriteLine("******************************");
-            Thread.Sleep(350);
-            Console.WriteLine(">> Authorizing Connection...");
+            Console.WriteLine("──────────────────────────────────────────────────────────────");
+            Console.WriteLine("\r\n   `7MMF'    db      `7MM\"\"\"Mq.`7MMF'   `7MF'`7MMF' .M\"\"\"bgd \r\n     MM     ;MM:       MM   `MM. `MA     ,V    MM  ,MI    \"Y \r\n     MM    ,V^MM.      MM   ,M9   VM:   ,V     MM  `MMb.     \r\n     MM   ,M  `MM      MMmmdM9     MM.  M'     MM    `YMMNq. \r\n     MM   AbmmmqMA     MM  YM.     `MM A'      MM  .     `MM \r\n(O)  MM  A'     VML    MM   `Mb.    :MM;       MM  Mb     dM \r\n Ymmm9 .AMA.   .AMMA..JMML. .JMM.    VF      .JMML.P\"Ybmmd\" \r\n ");
+            Console.WriteLine("──────────────────────────────────────────────────────────────");
+            Console.WriteLine();
+            Console.WriteLine("connecting...");
             LoginDetection(Username, Password);
         }
 
@@ -100,24 +99,16 @@ namespace JARVIS_Virtual_Assistant
             {
                 case 0:
                     //not found any login data
-                    Console.WriteLine(">> Data not detected");
-                    Thread.Sleep(450);
-                    Console.WriteLine(">> Connection Unauthorized");
+                    Console.WriteLine("login information incorrect");
                     Intro();
                     break;
                 case 1:
                     //guest access
-                    Console.WriteLine("******************************");
-                    Thread.Sleep(250);
-                    Console.WriteLine(">> Guest Access Authorized");
+                    Console.WriteLine("-guest access authorized");
                     break;
                 case 2:
                     //admin acccess
-                    Console.WriteLine(">> Admin Access Authorized");
-                    Thread.Sleep(250);
-                    Console.WriteLine("******************************");
-                    Thread.Sleep(350);
-                    Console.WriteLine("> Welcome Back Sir " + Username);
+                    Console.WriteLine("-admin access authorized");
                     break;
             }
         }
