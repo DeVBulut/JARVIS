@@ -9,18 +9,18 @@ namespace JARVIS_Virtual_Assistant
 {
     internal class AnimationAsisstant
     {
-        public void LoadAnimation(int WaitTime)
+        public void LoadAnimation(int cycles)
         {
-            slowText("Loading", 100, true, 150);
+            slowText("connecting ", 30, false, 30);
 
-            int cycle = WaitTime * 3;
+            int cycle = cycles * 3;
             for (int i = 0; i < cycle; i++)
             {
                 string[] LoadChars = { "|", "/", "-", "\\", };
                 for (int j = 0; j < 4; j++)
                 {
                     Console.Write(LoadChars[j]);
-                    Thread.Sleep(120);
+                    Thread.Sleep(80);
                     Console.Write("\b"); //backspace for ASCII
                 }
             }
