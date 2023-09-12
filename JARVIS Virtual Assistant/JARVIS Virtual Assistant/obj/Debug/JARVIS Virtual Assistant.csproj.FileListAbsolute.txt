@@ -88,3 +88,8 @@ D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\
 D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.csproj.CopyComplete
 D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.exe
 D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\obj\Debug\JARVIS Virtual Assistant.pdb
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Eco.Handles.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Eco.Interfaces.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Eco.LinqExtender.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\MDriven.Net.Http.dll
+D:\Projects\JARVIS\JARVIS\JARVIS Virtual Assistant\JARVIS Virtual Assistant\bin\Debug\Newtonsoft.Json.dll

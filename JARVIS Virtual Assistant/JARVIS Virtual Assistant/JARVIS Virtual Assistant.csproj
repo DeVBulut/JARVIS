@@ -157,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnimationAssistant.cs" />
+    <Compile Include="ListDesigner.cs" />
     <Compile Include="KeyVaultManager.cs" />
     <Compile Include="LoginManager.cs" />
     <Compile Include="Program.cs" />
