@@ -28,9 +28,11 @@ namespace JARVIS_Virtual_Assistant
             //{
             //    Console.WriteLine("Ello");
             //}
-            try { //loginManager.Intro();
+            try { loginManager.Intro();
                 ListDesigner _listDesigner = new ListDesigner();
-                _listDesigner.createList("tabletable", "column1", "int");
+               // _listDesigner.createList("tabletable", "column1", "int");
+               AnimationAsisstant _animAssistant = new AnimationAsisstant();
+                _animAssistant.LoadAnimation(15);
             }
             catch (Exception e) { if (loginManager.logType == 2) { Console.WriteLine("$$$ Error Code : " + e); } }
             Console.ReadLine();
