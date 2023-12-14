@@ -93,7 +93,7 @@ namespace JARVIS_Virtual_Assistant
             //Return the type of Login;
             short loginType = Login(Username, Password);
             logType = loginType;
-
+            SpeechEngine speechEngine = new SpeechEngine();
             switch (loginType)
             {
                 case 0:
@@ -108,6 +108,8 @@ namespace JARVIS_Virtual_Assistant
                 case 2:
                     //admin acccess
                     Console.WriteLine("-admin access authorized");
+                    speechEngine.Speak("Welcome Sir");
+                    speechEngine.Speak("What would you like to do today?");
                     break;
             }
         }

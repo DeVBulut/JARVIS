@@ -20,17 +20,19 @@ namespace JARVIS_Virtual_Assistant
             Console.WriteLine("──────────────────────────────────────────────────────────────");
            
             try { loginManager.Intro();
-                TimeLib _timeLib = new TimeLib();
-                Console.WriteLine("enter hour");
-                string hourEntry = Console.ReadLine();
-                Console.WriteLine("enter minute");
-                string minuteEntry = Console.ReadLine();
-                int parsedHourEntry = Int32.Parse(hourEntry);
-                int parsedMinuteEntry = Int32.Parse(minuteEntry);
-                Console.WriteLine(parsedHourEntry);
-                Console.WriteLine(parsedMinuteEntry);
+                TimeLib timlib = new TimeLib();
+                timlib.PlayAlarmSound();
+                //TimeLib _timeLib = new TimeLib();
+                //Console.WriteLine("enter hour");
+                //string hourEntry = Console.ReadLine();
+                //Console.WriteLine("enter minute");
+                //string minuteEntry = Console.ReadLine();
+                //int parsedHourEntry = Int32.Parse(hourEntry);
+                //int parsedMinuteEntry = Int32.Parse(minuteEntry);
+                //Console.WriteLine(parsedHourEntry);
+                //Console.WriteLine(parsedMinuteEntry);
 
-                Console.WriteLine(_timeLib.setAlarm(parsedHourEntry, parsedMinuteEntry));
+                //Console.WriteLine(_timeLib.setAlarm(parsedHourEntry, parsedMinuteEntry));
                 //_timeLib.getTime();
             }
             catch (Exception e) { if (loginManager.logType == 2) { Console.WriteLine("$$$ Error Code : " + e); } }
